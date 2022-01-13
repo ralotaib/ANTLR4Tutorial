@@ -1,14 +1,12 @@
-package edu.ucsd.cse232b.antlrTutorial.Visitor;
+package edu.ucsd.cse232b.antlrTutorial.visitor;
 
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.ParserRuleContext;
-import org.antlr.v4.runtime.tree.ParseTreeWalker;
 
 import edu.ucsd.CSE232B.parsers.ExpressionGrammarLexer;
 import edu.ucsd.CSE232B.parsers.ExpressionGrammarParser;
 import edu.ucsd.cse232b.antlrTutorial.expression.Prog;
-import edu.ucsd.cse232b.antlrTutorial.listener.ExpressionBuilder;
 
 public class main {
      public static void main(String[] args) {

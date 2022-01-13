@@ -1,4 +1,4 @@
-package edu.ucsd.cse232b.antlrTutorial.Visitor;
+package edu.ucsd.cse232b.antlrTutorial.visitor;
 
 import edu.ucsd.CSE232B.parsers.ExpressionGrammarBaseVisitor;
 import edu.ucsd.CSE232B.parsers.ExpressionGrammarParser.Expr_BinaryContext;

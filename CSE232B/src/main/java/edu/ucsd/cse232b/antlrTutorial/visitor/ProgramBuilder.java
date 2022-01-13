@@ -1,4 +1,4 @@
-package edu.ucsd.cse232b.antlrTutorial.Visitor;
+package edu.ucsd.cse232b.antlrTutorial.visitor;
 
 import java.util.ArrayList;
 import java.util.List;
